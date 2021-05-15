@@ -217,12 +217,21 @@ body {
   .index1{
     display: none;
   }
+  #canada{
+    margin-left: 200px;
+  }
+  #pich{
+    height:210px;
+  }
 }
 
 @media only screen and (orientation:portrait) {
    .vanmap{
     width: 240px;
     border-radius: 15px;
+  }
+  #pich{
+    height:150px;
   }
   .usamap{
     width: 240px;
