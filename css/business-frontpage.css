@@ -349,6 +349,11 @@ body {
   #gt{
     margin-left: 10px;
   }
+  #cardsize{
+    width: 280px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 
