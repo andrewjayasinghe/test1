@@ -246,6 +246,7 @@ body {
   #catpics{
     height: 550px;
     border-radius: 15px;
+    cursor: pointer;
   }
   .pict{
     font-size: 25px;
