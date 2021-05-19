@@ -275,6 +275,17 @@ body {
     float: right; 
     margin-top: -18px;
   }
+  #adis{
+    font-weight: 350; 
+    float: left; 
+    width: 30%;
+  }
+  #al{
+    float: right; 
+    width: 70%;
+    /* margin-top: -18px; */
+  }
+
   #glogo{
     height:200px;
   }
@@ -361,6 +372,18 @@ body {
   #gl{
     /* float: right;  */
     margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #adis{
+    font-weight: 350; 
+    /* float: left;  */
+    margin-left: 10px;
+    margin-right: auto;
+  }
+  #al{
+    /* float: right;  */
+    margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
   }
