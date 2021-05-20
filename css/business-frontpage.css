@@ -204,6 +204,18 @@ body {
       width: 300px;
       border-radius: 15px;
   }
+  span .carousel-caption{
+    top: 0;
+    bottom: auto;
+    margin-left: -10%;
+    margin-right: auto;
+    width: 90%;
+}
+
+/* #carousel-caption1 {
+  top: auto;
+  bottom: 0;
+} */
   .usamap{
     width: 300px;
     border-radius: 15px;
