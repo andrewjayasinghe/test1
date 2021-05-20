@@ -211,6 +211,14 @@ body {
     margin-right: auto;
     width: 90%;
 }
+.carousel-caption{
+   
+  margin-left: -10%;
+  margin-right: auto;
+  margin-bottom: -4%;
+  width: 90%;
+}
+
 
 /* #carousel-caption1 {
   top: auto;
@@ -308,6 +316,21 @@ body {
     width: 240px;
     border-radius: 15px;
   }
+ .carousel-caption{
+   
+    margin-left: -10%;
+    margin-right: auto;
+    margin-bottom: -10%;
+    width: 90%;
+}
+  span .carousel-caption{
+    top: 0;
+    bottom: auto;
+    margin-left: -10%;
+    margin-right: auto;
+    margin-top: -5%;
+    width: 90%;
+}
   #glogo{
     height:100px;
     margin-left: 15px;
