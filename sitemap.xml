@@ -9,24 +9,28 @@
 
 <url>
   <loc>https://www.nikoiaqua.com/</loc>
-  <lastmod>2021-05-07T16:08:24+00:00</lastmod>
+  <lastmod>2021-05-27T16:08:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.nikoiaqua.com/index.html</loc>
-  <lastmod>2021-05-07T16:08:24+00:00</lastmod>
+  <lastmod>2021-05-27T16:08:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.nikoiaqua.com/about.html</loc>
-  <lastmod>2021-05-07T16:08:24+00:00</lastmod>
+  <lastmod>2021-05-27T16:08:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.nikoiaqua.com/services.html</loc>
-  <lastmod>2021-05-07T16:08:24+00:00</lastmod>
+  <lastmod>2021-05-27T16:08:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
+<url>
+  <loc>https://www.nikoiaqua.com/contact.html</loc>
+  <lastmod>2021-05-27T16:08:24+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
 
 </urlset>
